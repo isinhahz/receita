@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    background-color: rgb(255, 213, 0);
+    color: white;
+    text-align: center;
+    font-size: 64px;
+}
+div{
+    text-align: center;
+    
+}
+li{
+    margin: 30px;
+}
+.ingredientes{
+    text-align: left;
+    background-color: rgb(255, 174,0); 
+}
+.modo-de-preparo{
+    text-align: left;
+    background-color: rgb(255, 174, 0);
+}
+.nome {
+    text-align: center;
+}
+p{
+    margin: 10px;
+}
