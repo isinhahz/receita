@@ -3,8 +3,8 @@
 ![](./preview.png)
 
 ## Descrição
-Primeira página HTML com vinculo ao github, desenvolvido durante a disciplina de 
-linguagem de Marcação da escola SENAI Jandira.
+Criação de site Receita de bolo passo a passo utilizando HTML E CSS,
+desenvolvido durante a disciplina de linguagem de Marcação da escola SENAI Jandira.
 
 ## Tecnologias
 * HTML
